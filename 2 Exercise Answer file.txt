@@ -1,0 +1,7 @@
+2 Exercise
+
+1)What happens when the number of hidden nodes increase? 
+Model tries to overfit , overfit means memorizes training data but don't accurate on new data.
+
+2)Can you explain the pattern of the accuracy when the hidden nodes increase?
+As hidden nodes increase, accuracy first rises (network learns better), then levels off or may slightly drop if the network overfits.
